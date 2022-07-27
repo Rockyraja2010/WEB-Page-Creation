@@ -1,0 +1,22 @@
+body{
+    background-color:lightpink;
+}
+.fa{
+    color:darkmagenta;
+}
+.box-part{
+    background-color:rgb(148, 236, 236);
+    padding:40px 10px;
+}
+span{
+    font-size: 12px;
+}
+.text{
+    margin: 10px 0px;
+}
+a{
+    border-bottom: 3px solid darkmagenta;
+}
+.box{
+    padding: 60px 0px;
+}
